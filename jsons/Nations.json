@@ -171,6 +171,64 @@
 	"spyNames": ["David", "Aaron", "Abraham", "Isaac", "Moses", "Samuel", "Daniel", "Solomon", "Eli", "Joshua"],
 	"cities": ["Jerusalem", "Hebron", "Bethlehem", "Capernaum", "Jericho", "Megiddo", "Shechem", "Samaria", "Tiberias", "Safed", "Beersheba", "Shiloh", "Hazor", "Gaza", "Jaffa", "Nazareth", "Caesarea", "Ziklag", "Lydda", "Gibeon", "Bethel", "Ai", "Jezreel", "Taanach", "Gezer"],
 },
+	
+{
+	"name": "Artsakh",
+	"adjective": ["Artsakhan"],
+	"leaderName": "Hasan-Jalal Dawla",
+	"preferredVictoryType": "Diplomatic",
+	"favoredReligion": "Christianity",
+	"startBias": ["Lakes","Hill"],
 
+	"declaringWar": "By the blessings of the Almighty, we shall defend our lands against all who dare to encroach!",
+	"attacked": "The Prince of Princes of Artsakh will not be threatened. Prepare for battle!",
+	"defeated": "We have fallen, but my people have carved their name into these mountains... For we are our mountains!",
+	"introduction": "I am Hasan-Jalal Dawla, the Prince of Princes of Artsakh and Balk. My people have endured through the ages, and our spirit remains unbroken.",
 
+	"neutralHello": "Peace be upon you. May God bless our meeting.",
+	"hateHello": "Your hostility towards us has not gone unnoticed.",
+
+	"tradeRequest": "Let us exchange goods and knowledge, that our peoples may benefit from this mutual endeavor.",
+
+	"innerColor": [137, 2, 62],
+	"outerColor": [251, 186, 72],
+
+	"uniqueName": "We Are our Mountains, the Kingdom of Ararat and Van",
+	"uniques": ["[+15]% Strength <when fighting in [Lakes] tiles>","[+15]% Strength <when fighting in [Hill] tiles>","[+2 Gold] from every [Citadel]","Gain control over [{non-[Major]} {All}] tiles in a [1]-tile radius <upon building a [Fort] improvement> <in this city> <with [20]% chance>",
+		"[+4 Faith] from every [Mountain] <in tiles without [Natural Wonder]>", "[+15]% Strength <for [All] units> <within [1] tiles of a [Mountain]>", "[+15]% Strength <for [All] units> <within [2] tiles of a [Mountain]>"],
+
+	"spyNames": ["Narek", "Davit", "Hayk", "Tigran", "Aram", "Mikayel", "Ani", "Mane", "Anna", "Milena"],
+	"cities": ["Stepanakert", "Martuni", "Martakert", "Askeran", "Hadrut", "Berdzor", "Karvachar", "Chartar", "Vank", "Kovsakan", "Mijnavan", "Ivanyan", "Khnapat", "Karmir Shuka", "Haterk", "Vaghuhas", "Khndzristan", "Nerkin Horatagh", "Kochoghot", "Kert", "Maghavuz", "Machkalashen", "Khnatsakh", "Khramort", "Tsaghkashen"],
+},
+
+{
+	"name": "Armenia",
+	"adjective": ["Armenian"],
+	"leaderName": "Tiridates III",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Christianity",
+	"startBias": ["Hill", "Avoid [Coast]"],
+
+	"declaringWar": "The light of the Father shall shine upon your heathen lands!",
+	"attacked": "Your armies will crumble before the might of our faith!",
+	"defeated": "Though today the winds of fate have turned against us, the Father's light still lives on.",
+	"introduction": "I am Tiridates III, divinely appointed ruler of Armenia and champion of the one true faith.",
+
+	"neutralHello": "Greetings, fellow ruler. May you see the light as I have.",
+	"hateHello": "Speak quickly, lest I decide to purge your lands of their unholy filth!",
+
+	"tradeRequest": "I extend my hand in friendship and trade! Let us exchange treasures and knowledge, for in unity lies strength.",
+
+	"innerColor": [219, 196, 135],
+	"outerColor": [64, 87, 191],
+
+	"uniqueName": "Illumination of Faith on the Stone Curtain",
+	"uniques": ["[+1 Faith] [in all cities] <within [3] tiles of a [Mountain]>", "[+1 Faith, +1 Gold] [in all cities] <within [2] tiles of a [Mountain]>", 
+		"[+1 Faith, +2 Culture] in cities on [Hill] tiles","[+2 Faith] in cities on [Hill] tiles <after founding a religion>",
+		"[+1 Faith, +1 Production, +1 Food] [in all cities] <within [1] tiles of a [Mountain]>", "[Missionary] units gain the [Mobility] promotion", "[Great Prophet] units gain the [Mobility] promotion"],
+
+	"spyNames": ["Hovhannes", "Hakob", "Sargis", "Grigor", "Harutyun", "Gevorg", "Ashot", "Suren", "Levon", "Gurgen"],
+	"cities": ["Arzashkun", "Tushpa", "Ararat","Van", "Erebuni", "Teishebaini", "Horom", "Musasir", "Teyseba", "Haykaberd", "Toprakkale", "Patnos", "Alashkirt", "Altintepe", "Urmia", "Bastam", "Khrber", "Sugunia","Yerevan", "Gyumri", "Vanadzor", "Vagharshapat", "Abovyan", "Hrazdan", "Kapan", "Armavir", "Artashat", "Ijevan", "Gavar", "Goris", "Sevan", "Dilijan", "Ashtarak", "Spitak", "Alaverdi", "Martuni", "Yeghegnadzor", "Stepanavan", "Tashir", "Metsamor", "Aparan", "Berd", "Vardenis"],
+	
+	},
 ]
