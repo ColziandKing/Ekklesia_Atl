@@ -38,6 +38,65 @@
 "Tegea",
 "Caryae"]
 	},
+	
+	{
+		"name": "The Kievan Rus",
+		"adjective": ["Kievan"],
+		"leaderName": "Vladimir the Great",
+		"startBias": ["Avoid [Desert]", "River"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Eastern Orthodox",
+
+		"declaringWar": "By Perun's mighty hammer! I declare war between our lands! Let my fierce Druzhina and the clash of steel be my roar!",
+		"attacked": "This treachery shall not pass unanswered! Let my guard march forth, and my mighty siege engines roar, as we crush you like grapes beneath our iron boots!",
+		"defeated": "Alas, bitter defeat! Our once-proud Kyiv now lie in ruin, like shattered dreams upon the cold earth! But let it be known, we will come back stronger than ever!",
+		"introduction": "Добo?ый денo?! What brings you here to my lands? I assume you sailed the Dnieper here for trade!",
+
+		"neutralHello": "Здo?авo?твуйте! What brings you to the foot my throne?",
+		"hateHello": "Begone, foul wretch! May the harsh winds of fate carry you far from my sight!",
+
+		"tradeRequest": "Might we, perhaps, enter into a most profitable arrangement? As two ships floating along on the same river?",
+
+		"outerColor": [4, 67, 137],
+		"innerColor": [247, 184, 1],
+
+		"uniqueName": "Golden Field Volosts of The Dnieper ",
+		"uniques": ["[+1 Gold, +1 Happiness] in cities on [River] tiles", "Roads connect tiles across rivers", "[Land] units gain the [River Walker] promotion",
+		"[+1 Faith] from every specialist [in capital]","[+1 Faith] from every specialist [in all cities] <during the [Medieval era]>",
+			"[+1 Gold] from [Wheat] tiles [in capital]","[+2 Gold] from [Wheat] tiles [in all cities] <after discovering [Fertilizer]>"],
+
+		"spyNames": ["Vasil", "Odessa", "Boris", "Igor", "Oleg", "Yaroslav", "Olga", "Nikita", "Sergey", "Alexandr", "Mstislav"],
+		"cities": ["Kiev", "Novgorod", "Chernigov", "Pereyaslavl", "Smolensk", "Polotsk", "Rostov", "Vladimir-Suzdal", "Murom", "Ryazan", "Vyshgorod", "Turov", "Pinsk", "Belgorod", "Grodno", "Lutsk", "Minsk", "Mstislavl", "Pereiaslav", "Galich", "Volodymyr-Volynskyi", "Yaroslavl", "Yuriev-Polsky", "Izborsk", "Staraya Ladoga", "Yuriev", "Pskov", "Dorogobuzh", "Toropets", "Uglich"]
+
+	},
+	
+	{
+		"name": "Khazaria",
+		"leaderName": "Bulan",
+		"adjective": ["Khazaria"],
+		"startBias":["Coast"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [46, 32, 24],
+		"innerColor": [159, 221, 252],
+		"uniqueName": "Khazar Correspondence",
+		"uniques": ["[+25]% [Faith] [in annexed cities]","Allied City-States provide [Faith] equal to [+25]% of what they produce for themselves",
+			"[-80]% Gold cost of upgrading <for [Mounted] units>","[+10]% Strength <for [Mounted] units>","[+25]% XP gained from combat <when fighting in [Hill] tiles>"],
+		"cities": ["Atil", "Balanjar", "Sarkel", "Samandar", "Tamantarkha", "Derbent", "Astrakhan", "Kiev", "Sarychin", "Saratau", "Lharka"],
+		"spyNames": ["Saki"]
+	},
+
 {
 	"name": "The Philippines",
 	"adjective": ["Filipino"],
