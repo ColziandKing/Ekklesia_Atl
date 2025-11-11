@@ -1,4 +1,41 @@
 [
+{
+	"name": "Sparpet",
+	"uniqueTo": "Armenia",
+	"replaces": "Chariot Archer",
+	"unitType": "Mounted",
+	"movement": 4,
+	"strength": 10,
+	"cost": 66,
+	"requiredTech": "Bronze Working",
+	"requiredResource": "Horses",
+	"upgradesTo": "Knight",
+	"obsoleteTech": "Chivalry",
+	"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "[+15]% Strength bonus for [Military] units within [1] tiles"],
+	"attackSound": "Horse"
+},
+//Artsakh
+{
+	"name": "Ararat Cavalry",
+	"replaces": "Knight",
+	"uniqueTo": "Artsakh",
+	"unitType": "Mounted",
+	"movement": 4,
+	"strength": 24,
+	"cost": 120,
+	"requiredTech": "Chivalry",
+	"obsoleteTech": "Military Science",
+	"upgradesTo": "Cavalry",
+	"requiredResource": "Horses",
+	"promotions": ["Drill II"],
+	"uniques": ["Can move after attacking",
+	"No defensive terrain bonus",
+	"Can pass through impassable tiles",
+	"[-33]% Strength <vs cities> <when attacking>",
+	"Never appears as a Barbarian unit"],
+	"attackSound": "horse"
+},
+
 	{
 		"name": "Sebastenoi",
 		"uniqueTo": "Judea",
