@@ -1,4 +1,58 @@
 [
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"requiredTech": "Civil Service",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+    {
+        "name": "Pioneer",
+        "uniqueTo": "America",
+        "replaces": "Settler",
+        "unitType": "Scout",
+		"requiredTech": "Civil Service",
+        "movement": 2,
+        "strength": 5,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"
+        ],
+        "promotions": ["Ignore terrain cost"],
+        "hurryCostModifier": 20,
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Ranchero",
+        "replaces": "Settler",
+        "uniqueTo": "Mexico",
+        "unitType": "Civilian",
+		"requiredTech": "Civil Service",
+        "movement": 2,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Requires at least [2] population"
+        ],
+        "hurryCostModifier": 20
+    },{
+		"name": "Perioikoi",
+                "uniqueTo": "Sparta",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 20,
+		"cost": 40,
+		"requiredTech": "Bronze Working",
+                "uniques": ["Can move after attacking","[+10]% Strength <vs cities> <when attacking>"],
+		"obsoleteTech": "Civil Service",
+		"attackSound": "metalhit"
+	},
+
 {
 	"name": "Sparpet",
 	"uniqueTo": "Armenia",
