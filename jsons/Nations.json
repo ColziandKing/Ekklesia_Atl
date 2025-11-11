@@ -1,0 +1,176 @@
+[
+{
+		"name": "Sparta",
+		"leaderName": "Leonidas I",
+		"adjective": ["Sparta"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [207, 14, 0],
+		"innerColor": [255, 231, 161],
+		"uniqueName": "Molon Labe",
+		"uniques": [
+      "[-40]% maintenance costs","[+30]% XP gained from combat","[+1 Production] from every specialist [in capital]","Comment [[+2] Happiness from all military buildings]",
+      "[+2 Happiness] from every [Barracks] <hidden from users>","[+2 Happiness] from every [Stable] <hidden from users>","[+2 Happiness] from every [Forge] <hidden from users>",
+      "[+2 Happiness] from every [Armory] <hidden from users>","[+2 Happiness] from every [Arsenal] <hidden from users>","[+2 Happiness] from every [Military Academy] <hidden from users>"
+		],
+  "spyNames": ["Seleukia", "Damaskos", "Edessa", "Arabela", "Susa", "Ekbatana", "Kakathiokerta", "Charax", "Mazaka", "Ipsos", "Sardis", "Gabai", "Persepolis", "Karmana", "Prophthasia"],
+		"cities": ["Sparta",
+"Messenia",
+"Laconia",
+"Gythium",
+"Amyclae",
+"Helos",
+"Pharae",
+"Sellasia",
+"Tegea",
+"Caryae"]
+	},
+{
+	"name": "The Philippines",
+	"adjective": ["Filipino"],
+	"leaderName": "Jose Rizal",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Catholicism",
+	"startBias": ["Coast", "Jungle"],
+		
+		"startIntroPart1": "'Dr.Rizal, through the publication of his works Noli Me Tangere, El Filibusterismo and through an endless series of pamphlets, manifestos of all sorts attacking religion, the friars and the Spanish government, impresses upon the people of the philippines the ideas of expelling the religious orders to secure the independence of this colony.'",
+		"startIntroPart2": "'The office should not hesitate to qualify Rizal as the soul of the rebellion. He pretends to be the savior of the Filipinos. He is considered to be a superhuman being—exempted from any restraint—that might obstruct his 'Providential' mission. Don Jose Rizal is the prime mover of this rebellion and must suffer the penalty imposed by the Penal Code. As a consequences, the crime of the rebellion must be punished with death.' —Spanish State Attorney",
+		
+		"declaringWar": "I've traveled so far but I haven't really gotten anywhere. Because the battlefield is not here.",
+		"attacked": "They are incarcerated.. Murdered.. exhumed from the grave.. defiled.. that is what your fellowmen did to the honor and history of my race.",
+		"defeated": "I go where no slaves are nor butchers, nor oppressors, where Faith does not slay, where God is the Sovereign-Lord!",
+		"introduction": "I'm Jose Rizal, where my country has social cancer that should be exposed to all Filipinos. And to this end, I intend to record it's condition faithfully, without prejudice. I shall lift the shroud that covers the evil, sacrificing everything to truth, even vanity itself, for as your son I'm conscious of my own defects and weakness.", 
+		"declaringFriendship": "Solidarity..Brotherhood..These are the principles in which will unite us",
+		"denounced": "I'm a writer, I challenge everyone, even myself; I never thought I had so many enemies. Everything I have written is deeply rooted in truth, In my writings, Filipinos will find themselves and their history in the past ten years.",
+		
+		"neutralHello": "Once, I thought the only thing important in life was education. But I've realized that it really depends on what kind of Education, one kind can blind us. But now I can see clearly.",
+		"hateHello": "Edukasyon.. Edukasyon.. that makes cowards out all of you. Are YOU going to allow everybody to treat you like slaves? Unless we learn the value of self-respect, we will never earn the respect of other people.",
+		
+		"tradeRequest": "What we ask for is equality, peaceful reforms through education and civic development. Recognition that Filipinos are equals of Everyone",
+				
+	"innerColor": [252, 207, 75],
+	"outerColor": [51, 101, 138],
+
+	"uniqueName": "Bayanihan, Pearl of the Orient Seas",
+	"uniques": ["Comment [Coastal cities connect over water after discovering [Optics]]",
+	"Gain a free [Philippines Ability] [in all cities] <after discovering [Optics]> <hidden from users>",
+	"[+1 Happiness, +2 Production, +1 Culture, +1 Science] [in all cities connected to capital]",
+	"[-1 Happiness, -2 Production, -1 Culture, -1 Science] [in capital] <hidden from users>",
+	"[+1 Production, +1 Science] from every [Trading post]","Comment [Gain 12 culture when an unit dies]","[+25]% Strength <when fighting in [Friendly Land] tiles>",
+  "All newly-trained [Melee] units [in all cities] receive the [Philippine Clan] promotion","All newly-trained [Ranged] units [in all cities] receive the [Philippine Clan] promotion"],
+
+	"spyNames": ["Rizal", "Andres", "Gabriela", "Diego", "Emilio", "Kudarat", "Christian", "Daniel", "Bayani", "Miguel"],
+	"cities": ["Manila", "Cebu City", "Quezon City", "Davao City", "Zamboanga City", "Baguio", "Iloilo City", "Bacolor", "Laoag", "Vigan", "Naga", "Tacloban", "Cagayan de Oro", "Legazpi", "Butuan", "Cotabato City", "Tagbilaran", "Lucena", "Olongapo", "Angeles", "Taguig", "Antipolo", "Caloocan", "General Santos", "Puerto Princesa"],
+},
+  
+{
+	"name": "Judea",
+	"adjective": ["Hebrew"],
+	"leaderName": "Herod",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Judaism",
+	"startBias": ["Desert", "Hill"],
+
+	"declaringWar": "I have tolerated your insolence long enough. Now, you shall feel the wrath of Judea! My legions will march across your lands, and your people will know the price of defying Herod the Great!",
+	"attacked": " Fool! Your armies will break upon my fortifications like waves upon rocks. Prepare to rue this day!",
+	"defeated": "Is this how it ends? My grand vision, my mighty works... all reduced to rubble and whispers. You may brand me a tyrant, but you cannot deny the greatness I achieved. Let my fall be a lesson to all who would reach for the heavens.",
+	"introduction": "I am Herod, King of Judea, builder of great monuments fit for the Lord above! Tread carefully in my presence, for I am as generous to my friends as I am merciless to my enemies.",
+
+	"neutralHello": "Ah, welcome to my court.",
+	"hateHello": "Speak quickly and leave, before I decide your tongue would be better used to adorn my palace walls.",
+
+	"tradeRequest": "Judea's wealth is vast, and I am willing to share... for the right price.",
+
+	"outerColor": [36, 132, 240],
+	"innerColor": [125, 21, 184],
+
+	"uniqueName": "Megalomania Architectural Hellenization",
+	"uniques": [
+	"[+25]% Production when constructing [Ancient era] wonders [in all cities] <in cities with a [Shrine]>",
+	"[+15]% Production when constructing [Classical era] wonders [in all cities] <in cities with a [Shrine]>",
+	"[+1 Faith] from all [Wonder] buildings","Comment [[+35]% Production towards Wonders once Aqueduct is constructed in at least 4 cities]",
+  "[+35]% Production when constructing [Wonder] buildings [in all cities] <if [Aqueduct] is constructed in at least [4] of [in all cities] cities> <hidden from users>","[+1 Faith] [in capital]"
+	],
+
+	"spyNames": ["Amos", "Ezra", "Malachi", "Gideon", "Isaiah", "Micah", "Ezekiel", "Levi", "Samuel", "David"],
+	"cities": ["Jerusalem", "Hebron", "Bethlehem", "Jericho", "Lachish", "Masada", "Caesarea", "Jaffa", "Akko", "Zedekiah's Cave", "Gibeon", "Gaza", "Shiloh", "En Gedi", "Tel Arad", "Mizpah", "Adullam", "Beersheba", "Gezer", "Ramat Rachel", "Hazor", "Eglon", "Beth Shemesh", "Shaaraim"],
+},
+{
+	"name": "State of Israel",
+	"adjective": ["Jew"],
+	"leaderName": "Ben-Gurion",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Judaism",
+	"startBias": ["Desert", "Hill"],
+
+	"declaringWar": "You leave us no choice but conflict. Remember, when peace becomes impossible, war becomes inevitable.",
+	"attacked": "We have survived far worse than you. We will endure, and we will prevail.",
+	"defeated": "Our dream of a Jewish homeland may fade for now, but it will never die. From the ashes of defeat, future generations will rise to reclaim our destiny.",
+	"introduction": "I am David Ben-Gurion, the first Prime Minister of Israel. We have returned to our ancient homeland, and we will make the desert bloom.",
+
+	"neutralHello": "Shalom.",
+	"hateHello": "Your presence here is barely tolerated.",
+
+	"tradeRequest": "A thriving economy is the foundation of a strong nation. And with this the desert shall grow green!",
+
+	"outerColor": [52, 89, 149],
+	"innerColor": [247, 244, 234],
+
+		"uniqueName": "Aliyah to The Promised Land",
+		"uniques": ["[+1 Gold, +1 Production] per every [5] [Faith]","[+1 Science] per every [9] [Faith]","[+1 Science] per every [4] [Faith] <starting from the [Modern era]>",
+      "[+1 Gold, +1 Production] per every [5] [Faith] <starting from the [Modern era]>",
+		"[+1 Faith] from every [Pasture]",
+	"[+4 Faith, +2 Culture, +2 Science] [in holy cities]",
+	"[+2 Faith, +1 Science] [in all cities connected to capital] <in cities following our religion>",
+	"[-2 Faith, -1 Science] [in capital] <in cities following our religion> <hidden from users>",
+	"Comment [+15% Strength for all units fighting in cities with a foreign religion]",
+	"[+15]% Strength <for [All] units> <in cities with a major religion> <hidden from users>",
+	"[-15]% Strength <for [All] units> <in cities following our religion> <hidden from users>"],
+
+	"spyNames": ["David", "Ariel", "Lavi", "Raphael", "Yosef", "Uri", "Yehuda", "Eitan", "Daniel", "Tamar"],
+	"cities": ["Jerusalem", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Netanya", "Ashdod", "Bnei Brak", "Beersheba", "Holon", "Ramat Gan", "Rehovot", "Bat Yam", "Ashkelon", "Kfar Saba", "Modi'in-Maccabim-Re'ut", "Herzliya", "Hadera", "Ra'anana", "Lod", "Beit Shemesh", "Jaffa", "Nazareth", "Tiberias", "Safed"],
+},
+{
+	"name": "The Kingdom of Israel",
+	"adjective": ["Israeli"],
+	"leaderName": "David",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Judaism",
+	"startBias": ["Desert", "Hill"],
+
+	"declaringWar": "With the Lord as my guide, I have faced giants and emerged victorious; let all who oppose us beware!",
+	"attacked": "You dare raise arms against the chosen of God?",
+	"defeated": "The ark of our covenant lies shattered, Jerusalem weeps, and our people are scattered. Is this truly the end of David's kingdom? O Lord, why have you forsaken us? Were we not the chosen ones?",
+	"introduction": "I am David, anointed by Samuel, chosen by God to lead Israel. May our nations find friendship under the watchful eye of the Almighty.",
+
+	"neutralHello": "Shalom! How fares your kingdom?",
+	"hateHello": "Your presence offends me more than Goliath's taunts. May the Lord smite you where you stand.",
+
+	"tradeRequest": "Let us not be like the nations around us; our strength lies in our covenant with the Lord.",
+
+	"outerColor": [194, 208, 118],
+	"innerColor": [0, 21, 20],
+
+		"uniqueName": "Divine Covenant",
+		"uniques": ["[Great Prophet] is earned [+15]% faster","[Great Scientist] is earned [+5]% faster","When spreading religion to a city, gain [3] times the amount of followers of other religions as [Science]",
+    "Gain enough Faith for [100]% of a Great Prophet <upon constructing [Synagogue] [in capital]>", "[+2 Faith, +2 Happiness, +2 Culture, +2 Science] from every [Holy site] <in [Desert] tiles>"],
+		
+	"spyNames": ["David", "Aaron", "Abraham", "Isaac", "Moses", "Samuel", "Daniel", "Solomon", "Eli", "Joshua"],
+	"cities": ["Jerusalem", "Hebron", "Bethlehem", "Capernaum", "Jericho", "Megiddo", "Shechem", "Samaria", "Tiberias", "Safed", "Beersheba", "Shiloh", "Hazor", "Gaza", "Jaffa", "Nazareth", "Caesarea", "Ziklag", "Lydda", "Gibeon", "Bethel", "Ai", "Jezreel", "Taanach", "Gezer"],
+},
+
+
+]
