@@ -1,4 +1,14 @@
-[
+[{
+		"name": "Stoa",
+                "uniqueTo": "Sparta",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+                "culture": 2,
+		"uniques": ["[+1 Science] per [1] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+
 		{
 			"name": "Vank",
 			"uniqueTo": "Armenia",
