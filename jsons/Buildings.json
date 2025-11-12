@@ -60,7 +60,7 @@
 			"replaces": "Library",
 			"hurryCostModifier": 25,
 			"maintenance": 1,
-			"specialistSlots": {"Priest": 2},
+			"specialistSlots": {"Artist": 2},
 			"uniques": ["[+1 Science] per [2] population [in this city]",
 			"[+1 Faith] per [4] population [in this city]"],
 			"requiredTech": "Writing"
