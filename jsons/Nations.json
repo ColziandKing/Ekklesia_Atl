@@ -45,7 +45,7 @@
 		"leaderName": "Vladimir the Great",
 		"startBias": ["Avoid [Desert]", "River"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Eastern Orthodox",
+		"favoredReligion": "Eastern Orthodoxy",
 
 		"declaringWar": "By Perun's mighty hammer! I declare war between our lands! Let my fierce Druzhina and the clash of steel be my roar!",
 		"attacked": "This treachery shall not pass unanswered! Let my guard march forth, and my mighty siege engines roar, as we crush you like grapes beneath our iron boots!",
