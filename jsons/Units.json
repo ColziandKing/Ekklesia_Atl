@@ -124,7 +124,7 @@
 	},
 {
 	"name": "Cohort",
-	"uniqueTo": "Judea",
+	"uniqueTo": "The Kingdom of Israel",
 	"replaces": "Spearman",
 	"unitType": "Sword",
 	"movement": 2,
@@ -146,7 +146,6 @@
 	"movement": 2,
 	"strength": 14,
 	"cost": 75,
-	"obsoleteTech": "Metal Casting",
 		"hurryCostModifier": 20,
 	"upgradesTo": "Swordsman",
 	"uniques" : ["Invisible to non-adjacent units <in [Friendly Land] tiles>",
