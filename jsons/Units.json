@@ -205,7 +205,7 @@
 	},
 	{
 		"name": "Town Militia",
-		"uniqueTo": "Kievan Rus",
+		"uniqueTo": "The Kievan Rus",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
