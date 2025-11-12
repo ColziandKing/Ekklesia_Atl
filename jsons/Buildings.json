@@ -15,7 +15,34 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},	{
+		"name": "Siršini",
+		"uniqueTo": "Artsakh",
+		"replaces": "Stable",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]","[+1 Faith] from [Cattle] tiles [in this city]","[+1 Faith] from [Sheep] tiles [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
 	},
+	{
+		"name": "Carved Caves",
+		"uniqueTo": "Armenia",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,
+		"faith": 2,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]","Must be on [Hill]",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+
 
 	{
 		"name": "Stoa",
